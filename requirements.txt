@@ -1,0 +1,8 @@
+pdfplumber
+python-docx
+fpdf
+langchain
+langchain-groq
+python-dotenv
+flask
+werkzeug
